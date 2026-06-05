@@ -293,15 +293,16 @@ Online customers exhibit strong purchasing activity and higher engagement compar
 
 # 👨‍💻 Author
 
-**Your Name**
+**Yuvraj Bachhav**
 
 Data Analyst | SQL | Python | Power BI
 
 ### Connect With Me
 
-* LinkedIn: [Add Your LinkedIn Profile]
-* GitHub: [Add Your GitHub Profile]
-* Email: [Add Your Email]
+* LinkedIn: [www.linkedin.com/in/yuvrajbachhav24
+]
+* GitHub: [github.com/Yuvraj7devp]
+* Email: [yuvraj7usa@gmail.com]
 
 ---
 
